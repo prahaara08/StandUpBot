@@ -1,1 +1,7 @@
+**Name:** Alexander Georgiev **PID:** alexandersg
 
+**Name:** Daniel Lanigan **PID:** djlanigan
+
+**Name:** Pranesh Ambokar **PID:** pambokar
+
+We think this is missing a way for users to interact with each other. You can post a image and remind teammates but their is no one to access the information. Along with this you could add a edit or delete feature which would allow users to have more customization.  Otherwise it looks great!
